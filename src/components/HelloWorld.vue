@@ -25,6 +25,8 @@ export default {
       enable: true,
       names: `<h2>
                 <i>Roberto Antonio Quintanilla Aguilar
+                <br />
+                Gabriela Alexandra Gallardo Alvarez</i>
               </h2>`,
       movies: [
         { name: "The Godfather", year: 1972 },
